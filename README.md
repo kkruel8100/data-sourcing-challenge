@@ -14,7 +14,7 @@ Navigate to the retrieve_movie_data.ipynb" in GitHub repo. The output for each p
 
 Step 2:
 
-Navigate to the collected_data.csv and open the file to view the collected data.
+Navigate to the collected_data.csv in GitHub report. The output can be viewed in the "Preview" panel.
 
 Alternatively,
 
@@ -37,6 +37,10 @@ Add NYT_API_KEY and TMDB_API_KEY to .env file.
 Step 5:
 
 Open "retrieve_movie_data_ipynb" and run the panels.
+
+Step 6:
+
+Open collected_data.csv.
 
 #### Resources
 
